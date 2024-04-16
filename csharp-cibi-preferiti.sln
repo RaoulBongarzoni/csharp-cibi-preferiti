@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.9.34728.123
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "csharp-cibi-preferiti", "csharp-cibi-preferiti.csproj", "{2FA6AE5F-B7E2-4828-ACD8-AB182F0E2566}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CibiPreferiti", "CibiPreferiti.csproj", "{2FA6AE5F-B7E2-4828-ACD8-AB182F0E2566}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
